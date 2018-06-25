@@ -1,0 +1,10 @@
+Package: pcaaz
+Type: Package
+Title: Prepares a PCA plot and a scree plot
+Version: 0.1.0
+Author: Avijit Zutshi
+Maintainer: Avijit Zutshi <avijit.zutshi@gmail.com>
+Description: Prepares a PCA plot based on the data provided.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
