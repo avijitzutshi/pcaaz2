@@ -39,4 +39,5 @@ An intuitive, opensource LC-MS data processing engine from
    References
    Acknowledgement
    CopyrightandLicense
+   ReleaseHistory
    Issues
