@@ -39,10 +39,4 @@ An intuitive, opensource LC-MS data processing engine from
    References
    Acknowledgement
    CopyrightandLicense
-
-**Issues to be fixed**
-
-.. toctree::
-   :maxdepth: 2
-
    Issues
